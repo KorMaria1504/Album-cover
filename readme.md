@@ -1,1 +1,1 @@
-https://github.com/KorMaria1504/Album-cover/blob/master/index.html
+https://htmlpreview.github.com/?/https://github.com/KorMaria1504/Album-cover/blob/master/index.html
